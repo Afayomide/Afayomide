@@ -1,4 +1,4 @@
-👋 Hi, I'm Afayomide Oluwaseyi
+👋 Hi, I'm Chris Afayomide Oluwaseyi
 
 🚀 Fullstack Developer | Backend Specialist | MERN | TypeScript
 I build scalable, high-performance applications and love solving problems with clean code & creative logic.
