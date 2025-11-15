@@ -1,36 +1,23 @@
-👋 Hi, I'm Chris Afayomide Oluwaseyi
 
-🚀 Fullstack Developer | Backend Specialist | MERN | TypeScript
-I build scalable, high-performance applications and love solving problems with clean code & creative logic.
+# Hey, I'm Chris (Seyi) 👋  
+**Fullstack Dev | MERN + TypeScript | Shipping from Lagos, Nigeria**  
 
-🔧 Tech Stack
+I build **live products** — not just demos.  Write code that serves.  
+Currently grinding remote gigs @ $30–$50/hr.  
 
-Languages & Frameworks:
+🌍 **Portfolio:** [seyi.vercel.app](https://seyi.vercel.app)  
+🐦 **X (BuildInPublic):** [@seyi_A_dev](https://x.com/seyi_A_dev)  
+📧 **Let’s talk:** daraseyi086@gmail.com
 
-TypeScript, JavaScript, Python
+---
 
-Node.js, Express.js, Next.js, React
+## 🚀 Featured Projects
 
-MongoDB, PostgreSQL
-
-Tools & Platforms:
-
-Docker, Git, GitHub Actions
-
-AWS, Vercel, Netlify
+| Project | Live Demo | Tech | Highlights |
+|--------|-----------|------|-----------|
+| **PlusWorld Academy** | [plusworldacademy.com](https://plusworldacademy.com) | Next.js, Node, MongoDB, Paystack | EdTech SaaS • 100+ signups • Full auth + payments • *NDA repo* |
+| **Solevant** | [](https://solevant.com) | TypeScript, Prisma, Redis, Vercel | SOftware recommendation app | 99% test coverage |
+| **Native Fabs** | [NativeFabs.com](https://nativefabs.com) | React, Express, Mongodb, Docker | Ecommerce app • • Real-time inventory |
 
 
-<!--
-**Afayomide/Afayomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *All repos are private (client/NDA) — happy to walk through architecture in interviews.*
